@@ -1,0 +1,1 @@
+# Package laofont provide utility function to convert Lao-ASCII string to Lao-Unicode string.
